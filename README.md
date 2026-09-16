@@ -177,7 +177,7 @@ The dashboard can be used to identify:
 * Products contributing significantly to overall performance
 * Areas where sales and profitability can be improved
 
-> 📌 Add your **actual insights from the dashboard** here after analyzing your final visuals.
+
 
 ---
 
